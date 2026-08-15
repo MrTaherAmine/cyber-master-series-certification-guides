@@ -132,7 +132,7 @@ His work spans cybersecurity governance, GRC, audit and assurance, information-s
 - **300+ professional certifications and credentials** across cybersecurity, audit, GRC, cloud, risk, resilience, offensive security, project management, and related disciplines
 - **PMP · CISSP-SME · PCI QSA · PCIP · CCISO · CMSA · ISO/IEC 27001 ISMS MASTER · ISO 22301 BCMS MASTER · CCSK · eCPPT · eCTHP**, among other credentials
 - **Global Advisory Board Member** — EC-Council C|CISO and C|PENT
-- **Subject Matter Expert / Contributor** — ISC2 and Hack The Box
+- **Subject Matter Expert / Contributor** — ISC2 and Hack The Box and AfricaCERT
 - **Founding leadership** — OWASP Algiers, Cloud Security Alliance Algeria, and CAS Algeria
 - International contributions across cybersecurity advisory, auditing, training, standards, professional communities, speaking, and capacity building
 
