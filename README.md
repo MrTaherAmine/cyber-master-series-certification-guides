@@ -50,7 +50,7 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 ## The Guides
 
-> **Release note:** the original four-guide baseline is currently being rebuilt and currentized under the Cyber Master Series publishing standard. Public links will be added guide-by-guide as the refreshed editions are released.
+> **Latest release:** **CCSP 2026.2 Expanded Edition** is now available as a free interactive web edition and downloadable PDF. The remaining inherited guides are being rebuilt and currentized under the Cyber Master Series publishing standard.
 
 ### CISSP — Certified Information Systems Security Professional
 
@@ -69,12 +69,13 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 **Publisher:** ISC2  
 **Target outline:** CCSP Exam Outline effective 1 August 2026  
-**Current project status:** 2026 edition update in progress  
-**Planned formats:** Interactive Web Edition · PDF
+**Edition:** 2026.2 Expanded Edition  
+**Status:** ✅ Released  
+**Formats:** Interactive Web Edition · PDF
 
-**Study focus:** cloud concepts and architecture, cloud data security, platform and infrastructure security, application security, cloud security operations, and legal/risk/compliance considerations.
+**Study focus:** cloud concepts and architecture, cloud data security, platform and infrastructure security, application security, cloud security operations, and legal/risk/compliance considerations — expanded with practical scenarios, comparison tables, exam traps, quick-reference aids, and implementation context.
 
-**Release links:** Coming with the 2026 edition.
+**Release links:** [Read Online](https://taheramine.org/cyber-master-series/certification-guides/ccsp/study/) · [Download PDF](guides/ccsp/Cyber-Master-Series-CCSP-Study-Guide-2026.2.pdf) · [Guide Page](https://taheramine.org/cyber-master-series/certification-guides/ccsp/)
 
 ---
 
@@ -106,8 +107,8 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 ## Roadmap
 
-- [ ] Cyber Master Series Certification Guide Template v1.0
-- [ ] CCSP — 2026 Edition
+- [x] Cyber Master Series Certification Guide Template v1.0
+- [x] CCSP — 2026.2 Expanded Edition
 - [ ] CC — 2026 Edition
 - [ ] PMP — 2026 Edition
 - [ ] CISSP — 2026 Refresh
@@ -122,19 +123,17 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 ## About Taher Amine ELHOUARI
 
-**Taher Amine ELHOUARI** is an information security strategist, senior principal advisor, multi-accredited lead auditor, certified trainer, and cybersecurity practitioner with **15+ years of IT/cybersecurity experience** and **300+ professional certifications, certificates, and credentials**.
+**Taher Amine ELHOUARI** is a senior cybersecurity advisor, accredited auditor, certified trainer, practitioner and international speaker whose work spans cybersecurity governance, GRC, audit and assurance, cloud security, SOC/CSIRT operations, incident response, cyber resilience, risk management, technical security and professional capacity building.
 
-His work spans cybersecurity governance, GRC, audit and assurance, information-security management systems, cloud security, SOC/CSIRT operations, incident response, cyber resilience, risk management, technical security, professional training, and capacity building.
+### Selected profile
 
-### Selected credentials and professional contributions
-
-- **PECB Certified GOLD Trainer** — ID GT20395871
-- **300+ professional certifications and credentials** across cybersecurity, audit, GRC, cloud, risk, resilience, offensive security, project management, and related disciplines
-- **PMP · CISSP-SME · PCI QSA · PCIP · CCISO · CMSA · ISO/IEC 27001 ISMS MASTER · ISO 22301 BCMS MASTER · CCSK · eCPPT · eCTHP**, among other credentials
-- **Global Advisory Board Member** — EC-Council C|CISO and C|PENT
-- **Subject Matter Expert / Contributor** — ISC2 and Hack The Box and AfricaCERT
-- **Founding leadership** — OWASP Algiers, Cloud Security Alliance Algeria, and CAS Algeria
-- International contributions across cybersecurity advisory, auditing, training, standards, professional communities, speaking, and capacity building
+- **Certifications & credentials** — 300+ professional certifications, certificates and credentials across cybersecurity, audit, GRC, cloud, risk, resilience, offensive security, project management and related disciplines.
+- **Training** — PECB Certified GOLD Trainer — ID GT20395871; among others.
+- **Professional contribution** — Global Advisory Board Member — EC-Council C|CISO and C|PENT; Subject Matter Expert / contributor with ISC2 and Hack The Box; SME and contributor with AfricaCERT.
+- **Community leadership** — Founding leadership with OWASP Algiers, CSA Algeria, and CAS Algeria (Conformity Assessment Society).
+- **International contribution** — International speaker; served on the Program Committee of a FIRST event conducted in collaboration with AfricaCERT.
+- **Technical competition** — Multiple-time Top 10 finisher in international CTF competitions.
+- **Selected credentials** — DBA, MBA, MSc, PMP, CISSP-SME, CCISO, CMSA, ISO/IEC 27001 ISMS MASTER, ISO 22301 BCMS MASTER, CCSK, CCZT, TAISE, OOSE, eCPPT, eCTHP, among others.
 
 ### Selected recognition
 
