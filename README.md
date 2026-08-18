@@ -83,12 +83,12 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 **Publisher:** ISC2  
 **Target outline:** CC Exam Outline effective 1 September 2026  
-**Current project status:** New 2026 edition in progress  
+**Status:** ✅ Released  
 **Planned formats:** Interactive Web Edition · PDF
 
 **Study focus:** foundational security principles, governance, identity and access management, networking and cloud security, security operations, and incident-response concepts.
 
-**Release links:** Coming with the 2026 edition.
+**Release links:** [Read Online](https://www.taheramine.org/cyber-master-series/certification-guides/cc/study/) · [Download PDF](guides/cc/Cyber-Master-Series-CC-Study-Guide-2026.1.pdf) · [Guide Page](https://www.taheramine.org/cyber-master-series/certification-guides/cc/)
 
 ---
 
@@ -109,7 +109,7 @@ This GitHub repository is the **public project hub** for documentation, release 
 
 - [x] Cyber Master Series Certification Guide Template v1.0
 - [x] CCSP — 2026.2 Expanded Edition
-- [ ] CC — 2026 Edition
+- [x] CC — 2026.1 Edition
 - [ ] PMP — 2026 Edition
 - [ ] CISSP — 2026 Refresh
 - [ ] ISO/IEC 27001:2022 Lead Implementer Study Guide
